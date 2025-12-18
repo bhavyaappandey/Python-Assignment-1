@@ -1,3 +1,5 @@
+# Task 1: Perform basic arithmetic operations on two user-provided numbers
+
 num1 = float(input("Enter first number:"))
 num2 = float(input("Enter second number:"))
 
