@@ -1,6 +1,6 @@
 # Task 2: Generate a personalized greeting using the user's first and last name
 
 first_name = input("Enter first name:")
-second_name = input("Enter last name:")
+last_name = input("Enter last name:")
 
 print(f"Hello, {first_name} {last_name}! Welcome to the Python program.")
